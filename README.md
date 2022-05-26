@@ -1,8 +1,9 @@
 # Place-recognition
 
-Dataset: Kitti Odometry
+* Dataset: Kitti Odometry
 
-Model: NetVLAD
-  Encoder: Pointnet
-  Latent vector's size: 128
+* Model: NetVLAD 
+  * Encoder: Pointnet 
+  * Latent vector's size: 128
+
   
